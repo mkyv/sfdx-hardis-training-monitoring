@@ -1,0 +1,8 @@
+instanceUrl: https://orgfarm-a1d96f0d2b-dev-ed.develop.my.salesforce.com
+targetUsername: mirko.yv.13634faa932c@agentforce.com
+msTeamsWebhookUrl: null
+deploymentRepository: https://github.com/mkyv/sfdx-hardis-training
+notificationConfig:
+  - key: ORG_LIMITS
+    notifications:
+      email: log
