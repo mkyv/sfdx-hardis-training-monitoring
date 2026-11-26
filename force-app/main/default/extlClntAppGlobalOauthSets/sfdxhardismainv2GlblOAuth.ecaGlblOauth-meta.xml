@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtlClntAppGlobalOauthSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+    <certificate>MIIDmTCCAoGgAwIBAgIUNlu9L+qcDacEi2NIldd4TcGkX6swDQYJKoZIhvcNAQEL
+BQAwdTELMAkGA1UEBhMCR0IxDjAMBgNVBAgMBVBhcmlzMQ4wDAYDVQQHDAVQYXJp
+czEVMBMGA1UECgwMSGFyZGlzIEdyb3VwMRQwEgYDVQQLDAtzZmR4LWhhcmRpczEZ
+MBcGA1UEAwwQaGFyZGlzLWdyb3VwLmNvbTAeFw0yNjExMjUxOTM4MTNaFw0zNjEx
+MjIxOTM4MTNaMHUxCzAJBgNVBAYTAkdCMQ4wDAYDVQQIDAVQYXJpczEOMAwGA1UE
+BwwFUGFyaXMxFTATBgNVBAoMDEhhcmRpcyBHcm91cDEUMBIGA1UECwwLc2ZkeC1o
+YXJkaXMxGTAXBgNVBAMMEGhhcmRpcy1ncm91cC5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCjBdj5lW16o6GYZQvUvBJF1Q/jQpdVvVpifPdk3oAa
+/xhiM34kBCoLZ8x3pP4WeRDieIstLK7o0xUxZQmHjqwztJa34915vU+zDHwXSaCo
+F9t1j9IH7sKxxBNzZ0lKymVMOA0fc/2pDYdj9dzTNGTz52D3Va1ns1zoaISP2AOb
+c949a9SO6vYpwPzKVPcZKCXLs8NiSFRmFT1xzFx0R9PG+zvUB0yYVOIXxwMm8nXA
+fghTNTlg1nI9adqvs+JNvfTSFQSFpNWQv6XZjhSzaLP3PVOYcTzbOUdlQ2cCt2jn
+Pp+xQUyKESsgr3aOjSyM8M0Rm5aUbcQ3aX2YAp0tD+TnAgMBAAGjITAfMB0GA1Ud
+DgQWBBRLEWRVJp2HEDHOTGdbO0w+JFxpbDANBgkqhkiG9w0BAQsFAAOCAQEAjf1a
+/nhmsv20x3s95ssNmtb9Wvk/d0ShcTSSE2dFqvJOqtyCmJvV8ghG7gO4UNx4pp1e
+EwumefVVdJucVKqUHpcCmUbOjorZZbi7irPsVImZfy7pOLTlRglQW6m95e02Skwa
+Fwf5nMrc9AcJfzrCS2h+Oc0MVQutS2cDeRZdhAzRoUxOc1IS88drDEyV7G8QDOl7
+WsYfjCoQsxSwCkjmprOPjyVEEIYwoQ1OaG5puovAVcHYgIcFWEvID9LJ5v2poe7K
+pwnMqEnZ2sIh+acIPO11frUVLtv0I6fDA7BSXKUdHRbuzm7IeK5CIw4nBdPGr59S
+aMD6Pxihv0tANuAVoQ==</certificate>
+    <consumerKey>u64uknzZTSHWJOXzrBKsHn2Ru38bTHX5dkLL5299ClVJs/cEz9h8NuYYm/D8OStW6hJda2yYvXl+ya71SqngCTq7RgaZ0tTPhBV7Xu+lcYA+DIH4t9guGzR</consumerKey>
+    <externalClientApplication>sfdxhardismainv2</externalClientApplication>
+    <isClientCredentialsFlowEnabled>false</isClientCredentialsFlowEnabled>
+    <isCodeCredFlowEnabled>false</isCodeCredFlowEnabled>
+    <isCodeCredPostOnly>false</isCodeCredPostOnly>
+    <isConsumerSecretOptional>true</isConsumerSecretOptional>
+    <isDPopEnabled>false</isDPopEnabled>
+    <isDeviceFlowEnabled>false</isDeviceFlowEnabled>
+    <isEnforceRefreshTokenTTL>true</isEnforceRefreshTokenTTL>
+    <isIntrospectAllTokens>false</isIntrospectAllTokens>
+    <isMtlsEnabled>false</isMtlsEnabled>
+    <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
+    <isPkceRequired>true</isPkceRequired>
+    <isRefreshTokenRotationEnabled>true</isRefreshTokenRotationEnabled>
+    <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+    <isSecretRequiredForTokenExchange>false</isSecretRequiredForTokenExchange>
+    <isTokenExchangeEnabled>false</isTokenExchangeEnabled>
+    <label>sfdxhardismainv2 Global OAuth</label>
+    <shouldRotateConsumerKey>false</shouldRotateConsumerKey>
+    <shouldRotateConsumerSecret>false</shouldRotateConsumerSecret>
+</ExtlClntAppGlobalOauthSettings>
